@@ -4,7 +4,7 @@
   <remote fetch="https://github.com" name="github"/>
   <remote fetch="ssh://git@github.com" name="private"/>
   
-  <default remote="github" revision="refs/heads/cm-13.0"sync-c="true" sync-j="4"/>
+  <default remote="github" revision="refs/heads/cm-13.0" sync-c="true" sync-j="4"/>
   
   <project name="rootd/android" path="android" upstream="master"/>
   <project name="rootd/android_vendor_oneplus_oneplus2" path="vendor/oneplus/oneplus2" upstream="master"/>

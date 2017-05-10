@@ -9,14 +9,14 @@
   <project name="rootd/android" path="android" revision="master" upstream="master"/>
   <project name="rootd/android_vendor_oneplus_oneplus2" path="vendor/oneplus/oneplus2" revision="oneplus/6.0.1" upstream="oneplus/6.0.1"/>
 
-  <project name="CyanogenMod/android_device_oneplus_oneplus2" path="device/oneplus/oneplus2" revision="master" upstream="master"/>
+  <project name="CyanogenMod/android_device_oneplus_oneplus2" path="device/oneplus/oneplus2" upstream="master"/>
   <project name="commaneos/android_system_extras_su" path="system/extras/su" revision="master" upstream="master"/>
   <project name="commaneos/android_vendor_cm" path="vendor/cm" revision="master" upstream="master"/>
   <project groups="pdk-cw-fs,pdk-fs" name="commaneos/android_frameworks_base" path="frameworks/base" revision="master" upstream="master"/>
   <project groups="pdk-fs" name="commaneos/android_packages_apps_Settings" path="packages/apps/Settings" revision="master" upstream="master"/>
   <project groups="pdk-cw-fs,pdk-fs" name="commaneos/android_packages_apps_Bluetooth" path="packages/apps/Bluetooth" revision="master" upstream="master"/>
   <project groups="pdk" name="commaneos/android_frameworks_opt_telephony" path="frameworks/opt/telephony" revision="master" upstream="master"/>
-  <project name="CyanogenMod/android_kernel_oneplus_msm8994" path="kernel/oneplus/msm8994" revision="master" upstream="master"/>
+  <project name="CyanogenMod/android_kernel_oneplus_msm8994" path="kernel/oneplus/msm8994" upstream="master"/>
   <project groups="pdk" name="commaneos/android_frameworks_opt_net_wifi" path="frameworks/opt/net/wifi" revision="master" upstream="master"/>
 
   <project name="commaneos/android_device_oppo_common" path="device/oppo/common" revision="master" upstream="master"/>

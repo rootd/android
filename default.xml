@@ -7,7 +7,7 @@
   <default remote="github" revision="refs/heads/cm-13.0" sync-c="true" sync-j="4"/>
   
   <project name="rootd/android" path="android" revision="master" upstream="master"/>
-  <project name="rootd/android_vendor_oneplus_oneplus2" path="vendor/oneplus/oneplus2" revision="a9c4b02eef2646b6957c72f0c2c2de2925f83a15" upstream="master"/>
+  <project name="rootd/android_vendor_oneplus_oneplus2" path="vendor/oneplus/oneplus2" revision="a9c4b02eef2646b6957c72f0c2c2de2925f83a15" upstream="oneplus/6.0.1"/>
 
   <project name="rootd/android_device_oneplus_oneplus2" path="device/oneplus/oneplus2" upstream="master"/>
   <project name="rootd/android_system_extras_su" path="system/extras/su" upstream="master"/>

@@ -11,16 +11,16 @@
   <project name="TheMuppets/proprietary_vendor_oneplus" path="vendor/oneplus" remote="github" revision="cm-13.0" />
   
   <project name="rootd/android_device_oneplus_oneplus2" path="device/oneplus/oneplus2" upstream="master"/>
-  <project name="CyanogenMod/android_system_extras_su" path="system/extras/su" revision="master" upstream="master"/>
-  <project name="CyanogenMod/android_vendor_cm" path="vendor/cm" revision="master" upstream="master"/>
-  <project groups="pdk-cw-fs,pdk-fs" name="CyanogenMod/android_frameworks_base" path="frameworks/base" revision="master" upstream="master"/>
-  <project groups="pdk-fs" name="CyanogenMod/android_packages_apps_Settings" path="packages/apps/Settings" revision="master" upstream="master"/>
-  <project groups="pdk-cw-fs,pdk-fs" name="CyanogenMod/android_packages_apps_Bluetooth" path="packages/apps/Bluetooth" revision="master" upstream="master"/>
-  <project groups="pdk" name="CyanogenMod/android_frameworks_opt_telephony" path="frameworks/opt/telephony" revision="master" upstream="master"/>
+  <project name="CyanogenMod/android_system_extras_su" path="system/extras/su" revision="cm-13.0" upstream="master"/>
+  <project name="CyanogenMod/android_vendor_cm" path="vendor/cm" revision="cm-13.0" upstream="master"/>
+  <project groups="pdk-cw-fs,pdk-fs" name="CyanogenMod/android_frameworks_base" path="frameworks/base" revision="cm-13.0" upstream="master"/>
+  <project groups="pdk-fs" name="CyanogenMod/android_packages_apps_Settings" path="packages/apps/Settings" revision="cm-13.0" upstream="master"/>
+  <project groups="pdk-cw-fs,pdk-fs" name="CyanogenMod/android_packages_apps_Bluetooth" path="packages/apps/Bluetooth" revision="cm-13.0" upstream="master"/>
+  <project groups="pdk" name="CyanogenMod/android_frameworks_opt_telephony" path="frameworks/opt/telephony" revision="cm-13.0" upstream="master"/>
   <project name="CyanogenMod/android_kernel_oneplus_msm8994" path="kernel/oneplus/msm8994" upstream="master"/>
-  <project groups="pdk" name="CyanogenMod/android_frameworks_opt_net_wifi" path="frameworks/opt/net/wifi" revision="master" upstream="master"/>
+  <project groups="pdk" name="CyanogenMod/android_frameworks_opt_net_wifi" path="frameworks/opt/net/wifi" revision="cm-13.0" upstream="master"/>
 
-  <project name="CyanogenMod/android_device_oppo_common" path="device/oppo/common" revision="master" upstream="master"/>
+  <project name="CyanogenMod/android_device_oppo_common" path="device/oppo/common" revision="cm-13.0" upstream="master"/>
   <!-- <project name="CyanogenMod/android_vendor_nxp-nfc_opensource_Nfc" path="vendor/nxp-nfc/opensource/Nfc" revision="69a2f76594b76f0c8236dc928d538009a0094521" upstream="refs/heads/cm-13.0"/> -->
   <!-- <project name="CyanogenMod/android_vendor_nxp-nfc_opensource_frameworks" path="vendor/nxp-nfc/opensource/frameworks" revision="024db7f5c0fb6b0a76db1240d5cdd040248aa039" upstream="refs/heads/cm-13.0"/> -->
   <!-- <project name="CyanogenMod/android_vendor_nxp-nfc_opensource_libnfc-nci" path="vendor/nxp-nfc/opensource/libnfc-nci" revision="a9f7d1d41426352fd651520dc5d6a87edd868ee9" upstream="refs/heads/cm-13.0"/> -->
